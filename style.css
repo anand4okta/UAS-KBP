@@ -83,3 +83,30 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
+
+/* Media Queries for Mobile Devices */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    .title {
+        font-size: 1.5rem;
+    }
+    .timer {
+        font-size: 3rem;
+    }
+    .btn {
+        font-size: 1rem;
+        margin: 5px 0;
+    }
+    .tab {
+        padding: 5px 10px;
+        margin: 2px;
+    }
+    .todo-container, .settings-container, .spotify-container {
+        padding: 10px;
+    }
+    .spotify-container iframe {
+        height: 200px;
+    }
+}
