@@ -2,7 +2,8 @@
 
 **CARA AKSES POMODORO TIMER**
 1. BUKA LINK BERIKUT DI BROWSER ANDA :
-2. JALANKAN
+   https://anand4okta.github.io/UAS-KBP/
+3. JALANKAN
  
 **CARA KERJA WEB POMODORO :** 
 1. Add tasks to work on today
