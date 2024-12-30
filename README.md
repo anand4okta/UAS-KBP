@@ -3,13 +3,12 @@
 **CARA AKSES POMODORO TIMER**
 1. BUKA LINK BERIKUT DI BROWSER ANDA :
    https://anand4okta.github.io/UAS-KBP/
-3. JALANKAN
+2. JALANKAN
  
 **CARA KERJA WEB POMODORO :** 
-1. Add tasks to work on today
-2. Set estimate pomodoros (1 = 25 min of work) for each tasks
-3. Select a task to work on
-4. Start timer and focus on the task for 25 minutes
-5. Take a break for 5 minutes when the alarm ring
-6. Iterate 3-5 until you finish the tasks
+1. Tambahkan tugas untuk dikerjakan hari ini
+2. Tetapkan perkiraan pomodoro (25 menit) untuk setiap tugas
+3. Mulai pengatur waktu dan fokus pada tugas selama 25 menit
+4. Istirahatlah selama 5 menit saat pomodoro selesai
+5. Ulangi 3-5 sampai Anda menyelesaikan tugas
 
